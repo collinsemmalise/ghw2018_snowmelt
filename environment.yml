@@ -13,3 +13,7 @@ dependencies:
 - geoplot
 - seaborn
 - jupyter
+- pip
+- pip:
+  - sklearn
+  
