@@ -13,7 +13,6 @@ dependencies:
 - geoplot
 - seaborn
 - jupyter
-- pip
-- pip:
-  - sklearn
-  
+- xarray
+- holoviews
+- geoviews
